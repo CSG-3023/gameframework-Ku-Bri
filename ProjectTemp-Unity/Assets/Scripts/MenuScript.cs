@@ -6,7 +6,7 @@
  * Last Edit:
  * 
  * Description: Manages the UI elements for the menu scenes
- * ***/
+ ****/
 
 using System.Collections;
 using System.Collections.Generic;
