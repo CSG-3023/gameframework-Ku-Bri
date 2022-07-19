@@ -1,19 +1,19 @@
 # Project/Assigment Title
-**Title:** Game Name
+**Title:** ProjectTemplate
 
-**Genre:** e.g. Arcade
+**Genre:**  NA
 
 **Platform:** PC
 
 **Game Concept**
 
-Synopsis of the game. 
+Provides a template for many different game genres.  
 
 **Game Objects**
 
--List the primary game objects
+To speed up game creation by providing a template that works for many situations.
 
 **Instructions/Controls**
 
-Describe the player controls.
+NA
 
