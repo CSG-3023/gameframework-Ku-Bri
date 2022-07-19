@@ -36,6 +36,7 @@ public class MenuScript : MonoBehaviour
         if(creditsTextbox) { creditsTextbox.text = gm.gameCredits; }
         if(copyrightTextbox) { copyrightTextbox.text = gm.copyrightDate; }
         if(messageTextbox) { messageTextbox.text = gm.endMsg; }
+        if (message2Textbox) { message2Textbox.text = gm.defaultEndMessage; }
     } //end Start()
 
     public void OnGameStart()

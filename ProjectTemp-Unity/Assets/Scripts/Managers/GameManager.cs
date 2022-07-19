@@ -75,7 +75,7 @@ public class GameManager : MonoBehaviour
 
     [Header("GAME MESSAGES")]
     public string defaultEndMessage = "Game Over";//the end screen message, depends on winning outcome
-    public string looseMessage = "You Loose"; //Message if player looses
+    public string loseMessage = "You Lose"; //Message if player looses
     public string winMessage = "You Win"; //Message if player wins
     [HideInInspector] public string endMsg;//the end screen message, depends on winning outcome
 
@@ -321,7 +321,7 @@ public class GameManager : MonoBehaviour
         if (lives == 1) //if there is one life left and it is lost
         {
             Lives = 0; //set lives to zero
-            endMsg = looseMessage;
+            endMsg = loseMessage;
             SetTargetState(GameState.gameEnded); //set the state to Lost Level
 
         }

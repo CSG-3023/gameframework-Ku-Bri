@@ -892,7 +892,7 @@ MonoBehaviour:
   looseMessage: You Loose
   winMessage: You Win
   endMsg: 
-  recordHighScore: 0
+  recordHighScore: 1
   defaultHighScore: 1000
   defaultsLives: 3
   resetLostLevel: 1
